@@ -3,6 +3,7 @@
 This project is a final project of softgrowtech classifies emails as **Spam** or **Not Spam** using machine learning techniques.  
 It includes data preprocessing, feature extraction, visualization, model training, evaluation, and **deployment as a web application** for real-time predictions.
 
+
 ## 🚀 Project Workflow
 
 1. **Data Preprocessing**
